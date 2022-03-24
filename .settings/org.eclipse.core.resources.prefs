@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/koreate/hotel/controller/BoardController.java=UTF-8
+encoding//src/main/java/com/koreate/hotel/controller/ReservationController.java=UTF-8
+encoding//src/main/java/com/koreate/hotel/controller/UserController.java=UTF-8
+encoding//src/main/java/com/koreate/hotel/dao/BoardDAO.java=UTF-8
+encoding//src/main/java/com/koreate/hotel/dao/ReservationDAO.java=UTF-8
+encoding//src/main/java/com/koreate/hotel/dao/UserDAO.java=UTF-8
+encoding//src/main/java/com/koreate/hotel/service/BoardSerivce.java=UTF-8
+encoding//src/main/java/com/koreate/hotel/service/BoardServiceImpl.java=UTF-8
+encoding//src/main/java/com/koreate/hotel/service/ReservationService.java=UTF-8
+encoding//src/main/java/com/koreate/hotel/service/UserService.java=UTF-8
+encoding//src/main/java/com/koreate/hotel/service/UserServiceImpl.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/home.jsp=UTF-8
